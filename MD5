@@ -1,6 +1,6 @@
-00ec9a14ec1dafa6e88fac97384182c3 *Changelog
-30e634f599938e04f6e9f00abae93b05 *DESCRIPTION
+018fd37f7befb997ac810708c75bc394 *DESCRIPTION
 04e96b1340c8072787791b5d31a674b5 *NAMESPACE
+5362ddf4f82849118bd766d7d721fe03 *NEWS.md
 e9b3821d37fd289fc1663ec88c84bd0f *R/distributions.R
 f3956cf38c5f778e1b1fcdf9410adbbb *R/methods.R
 244a7fa38f5dd4c272fe496d49f66baa *R/plots.R
@@ -32,4 +32,4 @@ f39a2ce39b84c45dae3795211c1eac15 *man/tsreport.Rd
 a76a3379713f56250eb7d479d049030c *man/tsspec.Rd
 22d150757d09360f83fa2264b341aa8e *man/unconditional.Rd
 f92b06bcdc0fd11b80ca1de9ac0a4825 *tests/testthat.R
-31cab4aa8039503411190ac41835379f *tests/testthat/test-ensemble.R
+9eb7eb24b708e5d88dba94ff779f13ba *tests/testthat/test-ensemble.R
